@@ -5,11 +5,13 @@ Personal details
 Name
 Age
 Email
+
 Physical fitness
 - Super-human
 - Fit as a fiddle
 - Not terribly strong
 - A little couch-potato-y
+
 Address
 
 Mission statement
